@@ -1,0 +1,14 @@
+README.md
+  h_da61ae801e8c5c 4550-4552
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4eb900ea9d986b43249ca5f017ddbb2ef40ac6ca",
+  "prompts": {},
+  "humans": {
+    "h_da61ae801e8c5c": {
+      "author": "Cyrus Kelly <101790022+cyruskelly@users.noreply.github.com>"
+    }
+  }
+}
